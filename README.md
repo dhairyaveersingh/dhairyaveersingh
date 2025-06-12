@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**dhairyaveersingh/dhairyaveersingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Dhairya Veer Singh</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ## 👋 &nbsp;Hey there! I'm Dhairya Veer Singh -->
+
+### 👨🏻‍💻 &nbsp;About Me
+
+👨‍💻 &nbsp;I am majoring in Computer Science and Statistics at The University Of Illinois Urbana-Champaign\
+🌱 &nbsp;I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning.\
+✍️ &nbsp;In my free time, I like making music and working out.\
+💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+✉️ &nbsp;You can shoot me an email at dvsingh2@illinois.edu! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Résumé](https://dhairyaveersingh.com/) for more details about me. I'm open to feedback and suggestions!
+
