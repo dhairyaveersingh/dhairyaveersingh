@@ -1,9 +1,6 @@
 # Hello, I'm Dhairya Veer Singh
 
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Dhairya Veer Singh</h2>
-
-<!-- ## 👋 &nbsp;Hey there! I'm Dhairya Veer Singh -->
 
 
 ### 👨🏻‍💻 &nbsp;About Me
