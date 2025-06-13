@@ -17,4 +17,4 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![dhairyaveersingh's github stats](https://github-readme-stats.vercel.app/api?username=dhairyaveersingh&show_icons=true&theme=dracula)
+![Dhairya's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhairyaveersingh&show_icons=true&theme=transparent)
