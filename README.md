@@ -3,7 +3,7 @@
 ## &nbsp;[Portfolio Website](https://dhairyaveersingh.com/)
 
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻  &nbsp;About Me
 
 👨‍💻 &nbsp;I am majoring in Computer Science and Statistics at The University Of Illinois Urbana-Champaign\
 🌱 &nbsp;I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning.\
