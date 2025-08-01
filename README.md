@@ -13,4 +13,4 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![Dhairya's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhairyaveersingh&show_icons=true&theme=transparent)
+![Dhairya's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhairyaveersinh&show_icons=true&theme=transparent)
