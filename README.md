@@ -5,7 +5,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;I am majoring in Computer Science and Statistics at The University Of Illinois Urbana-Champaign\
+👨‍💻 &nbsp;I am majoring in Computer Science & Statistics at The University Of Illinois Urbana-Champaign\
 🌱 &nbsp;I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning.\
 ✍️ &nbsp;In my free time, I like making music and working out.\
 ✉️ &nbsp;You can shoot me an email at dvsingh2@illinois.edu! I'll try to respond as soon as I can.\
